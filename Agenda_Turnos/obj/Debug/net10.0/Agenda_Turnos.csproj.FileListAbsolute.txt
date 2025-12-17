@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\bin\Debug\net10.0\Agenda_Turnos.exe
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\bin\Debug\net10.0\Agenda_Turnos.deps.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\bin\Debug\net10.0\Agenda_Turnos.runtimeconfig.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\bin\Debug\net10.0\Agenda_Turnos.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\bin\Debug\net10.0\Agenda_Turnos.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.AssemblyInfo.cs
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.sourcelink.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\refint\Agenda_Turnos.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\Agenda_Turnos.genruntimeconfig.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\Agenda_Turnos\obj\Debug\net10.0\ref\Agenda_Turnos.dll

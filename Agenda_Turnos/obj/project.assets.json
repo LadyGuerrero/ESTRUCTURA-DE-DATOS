@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\Tareas\\ESTRUCTURA-DE-DATOS\\semana1\\semana1.csproj",
-      "projectName": "semana1",
-      "projectPath": "C:\\Users\\Asus\\Documents\\Tareas\\ESTRUCTURA-DE-DATOS\\semana1\\semana1.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\Tareas\\ESTRUCTURA-DE-DATOS\\Agenda_Turnos\\Agenda_Turnos.csproj",
+      "projectName": "Agenda_Turnos",
+      "projectPath": "C:\\Users\\Asus\\Documents\\Tareas\\ESTRUCTURA-DE-DATOS\\Agenda_Turnos\\Agenda_Turnos.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\Tareas\\ESTRUCTURA-DE-DATOS\\semana1\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\Tareas\\ESTRUCTURA-DE-DATOS\\Agenda_Turnos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
