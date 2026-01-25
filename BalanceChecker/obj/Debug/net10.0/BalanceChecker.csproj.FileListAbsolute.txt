@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\bin\Debug\net10.0\BalanceChecker.exe
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\bin\Debug\net10.0\BalanceChecker.deps.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\bin\Debug\net10.0\BalanceChecker.runtimeconfig.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\bin\Debug\net10.0\BalanceChecker.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\bin\Debug\net10.0\BalanceChecker.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.AssemblyInfo.cs
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.sourcelink.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\refint\BalanceChecker.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\BalanceChecker.genruntimeconfig.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\BalanceChecker\obj\Debug\net10.0\ref\BalanceChecker.dll

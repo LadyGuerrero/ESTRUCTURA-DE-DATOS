@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.exe
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.deps.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.runtimeconfig.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.AssemblyInfo.cs
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.sourcelink.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\refint\TorresDeHanoi.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.genruntimeconfig.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TorresDeHanoi\obj\Debug\net10.0\ref\TorresDeHanoi.dll
