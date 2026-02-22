@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\bin\Debug\net10.0\ProgramaVacunacion.exe
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\bin\Debug\net10.0\ProgramaVacunacion.deps.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\bin\Debug\net10.0\ProgramaVacunacion.runtimeconfig.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\bin\Debug\net10.0\ProgramaVacunacion.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\bin\Debug\net10.0\ProgramaVacunacion.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.AssemblyInfo.cs
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.sourcelink.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\refint\ProgramaVacunacion.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ProgramaVacunacion.genruntimeconfig.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\ProgramaVacunacion\obj\Debug\net10.0\ref\ProgramaVacunacion.dll
