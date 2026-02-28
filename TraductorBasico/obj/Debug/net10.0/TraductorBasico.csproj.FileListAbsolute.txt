@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\bin\Debug\net10.0\TraductorBasico.exe
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\bin\Debug\net10.0\TraductorBasico.deps.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\bin\Debug\net10.0\TraductorBasico.runtimeconfig.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\bin\Debug\net10.0\TraductorBasico.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\bin\Debug\net10.0\TraductorBasico.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.AssemblyInfo.cs
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.sourcelink.json
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\refint\TraductorBasico.dll
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.pdb
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\TraductorBasico.genruntimeconfig.cache
+C:\Users\Asus\Documents\Tareas\ESTRUCTURA-DE-DATOS\TraductorBasico\obj\Debug\net10.0\ref\TraductorBasico.dll
